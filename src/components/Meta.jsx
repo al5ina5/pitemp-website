@@ -2,7 +2,7 @@ import Head from 'next/head'
 
 const Meta = () => (
     <Head>
-        <title>pitemp by Sebatian Alsina</title>
+        <title>pitemp by Sebastian Alsina</title>
         <meta name="description" content="A command-line utility to get the temperature of your machine." />
         <meta property="og:type" content="website" />
         <meta name="og:title" property="og:title" content="pitemp by Sebastian Alsina" />
