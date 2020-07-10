@@ -17,7 +17,7 @@ const Meta = () => (
         <link rel="icon" type="image/png" href="/img/og-image.png" />
         <link rel="apple-touch-icon" href="/img/og-image.png" />
         <meta property="og:image" content="/img/og-image.png" /> */
-        <meta name="twitter:image" content="" />
+        <meta name="twitter:image" content="pitemp.vercel.app/img/og-image.png" />
 
         <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossOrigin="anonymous" />
 
