@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
+    "push": "git add . && git commit -am \"Auto Deploy\" && git push",
     "start": "next start"
   },
   "dependencies": {
